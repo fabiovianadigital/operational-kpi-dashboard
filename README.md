@@ -65,3 +65,9 @@ Demonstrar como dados e indicadores podem apoiar decisões estratégicas e melho
 
 Fábio Viana  
 Profissional de TI, CRM, Operações e Transformação Digital.
+
+---
+
+# 📸 Dashboard Preview
+
+![Dashboard](images/dashboard-preview.png)
